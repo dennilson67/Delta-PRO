@@ -1,0 +1,6 @@
+{
+  "name": "DeltaPro Estética Automotiva",
+  "description": "DeltaPro Estética Automotiva. Lavagem, cuidado e acabamento premium para carros, SUVs e picapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
